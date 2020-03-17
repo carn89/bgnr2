@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SpotsGlisse" id="SpotsGlisse">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="pratique" type="string"></SimpleField>
+	<SimpleField name="autre_usag" type="string"></SimpleField>
+	<SimpleField name="nive_prat" type="string"></SimpleField>
+	<SimpleField name="maree" type="string"></SimpleField>
+	<SimpleField name="ven_orient" type="string"></SimpleField>
+	<SimpleField name="ven_forc" type="string"></SimpleField>
+	<SimpleField name="vag_orient" type="string"></SimpleField>
+	<SimpleField name="vag_taill" type="string"></SimpleField>
+	<SimpleField name="dangers" type="string"></SimpleField>
+	<SimpleField name="reglement" type="string"></SimpleField>
+	<SimpleField name="decript" type="string"></SimpleField>
+	<SimpleField name="nom" type="string"></SimpleField>
+</Schema>
+<Folder><name>SpotsGlisse</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="pratique">toute</SimpleData>
+		<SimpleData name="autre_usag">baignade, voile, pêche, pêche à pied, marche aquatique</SimpleData>
+		<SimpleData name="nive_prat">tout</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">e-ono</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">se-no</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">dalles et cailloux isolés, autres usagers, algues</SimpleData>
+		<SimpleData name="reglement">a compléter</SimpleData>
+		<SimpleData name="decript">Belle plage abritée bien fréquentés des pratiquants, des autres usagers, des estivants, spot de repli et de thermique d'été, vagues de 2 m au maximum</SimpleData>
+		<SimpleData name="nom">Le Ster</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.31805769181298,47.7998801934642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="pratique">toute</SimpleData>
+		<SimpleData name="autre_usag">baignade, voile, pêche, pêche à pied, marche aquatique</SimpleData>
+		<SimpleData name="nive_prat">tout</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">e-ono</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">se-no</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">dalles et cailloux isolés, autres usagers, algues</SimpleData>
+		<SimpleData name="reglement">a compléter</SimpleData>
+		<SimpleData name="decript">Belle plage abritée bien fréquentés des pratiquants, des autres usagers, des estivants, spot de repli et de thermique d'été, vagues de 2 m au maximum</SimpleData>
+		<SimpleData name="nom">Le Ster</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.31805769181298,47.7998801934642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="pratique">tout</SimpleData>
+		<SimpleData name="autre_usag">char_a_voile</SimpleData>
+		<SimpleData name="nive_prat">intermediaire-expert</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">se-no</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">se-o</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">dalle-courant-forte_houle</SimpleData>
+		<SimpleData name="reglement">zone_naturelle</SimpleData>
+		<SimpleData name="decript">Deuxième accès au spt de Penhors, décallé au sud, meilleur pour le kite car sans dévent et beaucoup de place et pas d'autres usagers</SimpleData>
+		<SimpleData name="nom">Penhors Char à voile</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.39261843926731,47.9322402314639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="pratique">tout</SimpleData>
+		<SimpleData name="autre_usag">char_a_voile</SimpleData>
+		<SimpleData name="nive_prat">intermediaire-expert</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">se-no</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">se-o</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">dalle-courant-forte_houle</SimpleData>
+		<SimpleData name="reglement">zone_naturelle</SimpleData>
+		<SimpleData name="decript">Deuxième accès au spt de Penhors, décallé au sud, meilleur pour le kite car sans dévent et beaucoup de place et pas d'autres usagers</SimpleData>
+		<SimpleData name="nom">Penhors Char à voile</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.39261843926731,47.9322402314639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="pratique">tout</SimpleData>
+		<SimpleData name="autre_usag">baignade-surf-peche_a_pied-peche</SimpleData>
+		<SimpleData name="nive_prat">tout_suivant_condition</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">s-n</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">tout</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">courant-houle-barre</SimpleData>
+		<SimpleData name="reglement">zone_naturelle</SimpleData>
+		<SimpleData name="decript">Grande plage face à l'océan, impraticable en grosse conditions, idéal en thermique d'été, accessible débutant sans houle, zone naturelle très sensible à respecter</SimpleData>
+		<SimpleData name="nom">Treguennec</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.35971788253133,47.8814507154719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="pratique">tout</SimpleData>
+		<SimpleData name="autre_usag">baignade-surf-peche_a_pied-peche</SimpleData>
+		<SimpleData name="nive_prat">tout_suivant_condition</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">s-n</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">tout</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">courant-houle-barre</SimpleData>
+		<SimpleData name="reglement">zone_naturelle</SimpleData>
+		<SimpleData name="decript">Grande plage face à l'océan, impraticable en grosse conditions, idéal en thermique d'été, accessible débutant sans houle, zone naturelle très sensible à respecter</SimpleData>
+		<SimpleData name="nom">Treguennec</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.35971788253133,47.8814507154719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="pratique">tout</SimpleData>
+		<SimpleData name="autre_usag">baignade-surf-pech_a_pied_peche</SimpleData>
+		<SimpleData name="nive_prat">tout_suivant_condition</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">se-n</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">tout</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">courant-houle-barre-blockhaus</SimpleData>
+		<SimpleData name="reglement">baignade-zone naturelle</SimpleData>
+		<SimpleData name="decript">Spot de surf proche de la Torche bon pour naviguer également, bien fréquenté, idéal thermique de nord ouest. Toujours utiliser les zones sous le vent de la baignade et du surf</SimpleData>
+		<SimpleData name="nom">Tronoen</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.34819474358703,47.8524024513095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="pratique">tout</SimpleData>
+		<SimpleData name="autre_usag">baignade-surf-pech_a_pied_peche</SimpleData>
+		<SimpleData name="nive_prat">tout_suivant_condition</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">se-n</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">tout</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">courant-houle-barre-blockhaus</SimpleData>
+		<SimpleData name="reglement">baignade-zone naturelle</SimpleData>
+		<SimpleData name="decript">Spot de surf proche de la Torche bon pour naviguer également, bien fréquenté, idéal thermique de nord ouest. Toujours utiliser les zones sous le vent de la baignade et du surf</SimpleData>
+		<SimpleData name="nom">Tronoen</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.34819474358703,47.8524024513095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="pratique">tout</SimpleData>
+		<SimpleData name="autre_usag">surf</SimpleData>
+		<SimpleData name="nive_prat">intermediaire-expert</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">s-ne</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">so-ne</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">dalle-rocher-courant-houle-barre</SimpleData>
+		<SimpleData name="decript">Spot mythique de la Torche/Porz Carn, site magnifique face à l'océan. Suivant condition, impraticable et très dangereux ou simple lagon. Seul accès à l'eau à la Torche, le nord de la pointe est réservé au surf et à la baignade</SimpleData>
+		<SimpleData name="nom">Porz Carn - La Torche</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.34939665269505,47.8303860152931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="pratique">tout</SimpleData>
+		<SimpleData name="autre_usag">surf</SimpleData>
+		<SimpleData name="nive_prat">intermediaire-expert</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">s-ne</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">so-ne</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">dalle-rocher-courant-houle-barre</SimpleData>
+		<SimpleData name="decript">Spot mythique de la Torche/Porz Carn, site magnifique face à l'océan. Suivant condition, impraticable et très dangereux ou simple lagon. Seul accès à l'eau à la Torche, le nord de la pointe est réservé au surf et à la baignade</SimpleData>
+		<SimpleData name="nom">Porz Carn - La Torche</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.34939665269505,47.8303860152931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="pratique">tout(exceptionkite?)</SimpleData>
+		<SimpleData name="autre_usag">baignade-pèche-peche_a_pied</SimpleData>
+		<SimpleData name="nive_prat">tout</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">e-o</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">e-o</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">dalle-recif-rocher</SimpleData>
+		<SimpleData name="decript">Jolie petite plage, en spot de repli ou thermique d'été, en respectant les autres usagers</SimpleData>
+		<SimpleData name="nom">Les Sables Blancs, Lesconil-Loctudy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.19965016423191,47.7990589692476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SpotsGlisse">
+		<SimpleData name="pratique">tout(exceptionkite?)</SimpleData>
+		<SimpleData name="autre_usag">baignade-pèche-peche_a_pied</SimpleData>
+		<SimpleData name="nive_prat">tout</SimpleData>
+		<SimpleData name="maree">tout</SimpleData>
+		<SimpleData name="ven_orient">e-o</SimpleData>
+		<SimpleData name="ven_forc">tout</SimpleData>
+		<SimpleData name="vag_orient">e-o</SimpleData>
+		<SimpleData name="vag_taill">tout</SimpleData>
+		<SimpleData name="dangers">dalle-recif-rocher</SimpleData>
+		<SimpleData name="decript">Jolie petite plage, en spot de repli ou thermique d'été, en respectant les autres usagers</SimpleData>
+		<SimpleData name="nom">Les Sables Blancs, Lesconil-Loctudy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.19965016423191,47.7990589692476</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
